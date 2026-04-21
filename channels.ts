@@ -21,7 +21,7 @@ export const channels: Channel[] = [
   { category: "VTV", name: "VTV9", logo: "https://static.wikia.nocookie.net/ftv/images/c/c5/V9.png/revision/latest/scale-to-width-down/1000?cb=20260412131622&path-prefix=vi", stream: "https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8" },
   { category: "VTV", name: "VTV10", logo: "https://img.vtvprime.vn/zUWgi-44oYQsmMLc7mHjm9DHZElT-eG-O_GL840EMJs/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOTg2OTk4ZDktMDEzMC00MTllLTgyYzAtYzI5OTljNTg1YTVhLnBuZw==.png", stream: "https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8" },
   { category: "VTV", name: "Vietnam Today", logo: "https://img.vtvprime.vn/poWO4cMIOvlO4LFEoljeRHTNK-92PkmcxEiRMCjB4pM/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE5YTVjNDYtMTZiMC00ZTUwLTlkNjItZmM1ZTJjZjQ3OTU4LnBuZw==.png", stream: "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8" },
-  { category: "VTV", name: "VTV Hà Nội", logo: "https://static.wikia.nocookie.net/ftv/images/6/6d/VTV_H%C3%A0_N%E1%BB%99i.png/revision/latest?cb=20240324151241&path-prefix=vi", stream: "https://vietanhtv.id.vn/tv360/2/index.m3u8" },
+  { category: "VTV", name: "VTV Hà Nội", logo: "https://photos.google.com/u/4/photo/AF1QipP4BFt5UM7fXJ8fcCtfcUSbsUW2CsALuvB9uZOx stream: "https://vietanhtv.id.vn/tv360/2/index.m3u8" },
 
   // HTV
   { category: "HTV", name: "HTV1", logo: "https://static.wikia.nocookie.net/logos/images/2/26/HTV1_logo_ch%C3%ADnh_30-12-2024.png/revision/latest?cb=20260201034746&path-prefix=vi", stream: "https://freem3u.xyz/api/live/play.m3u8?vid=190" },
